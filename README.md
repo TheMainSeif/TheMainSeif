@@ -1,61 +1,88 @@
-# 👋 Hi, I'm Seif Wafeek
+<h1 align="center">Hi 👋, I'm Seif Wafeek</h1>
+<h3 align="center">Undergraduate Software Engineer | Full-Stack • DevOps • QA Automation</h3>
 
-🎓 Undergraduate Software Engineer at Egypt University of Informatics (EUI)  
-💻 Interested in Full-Stack Development, DevOps, Automation Testing, and Cloud Computing
+<p align="center">
+  <a href="https://github.com/TheMainSeif"><img src="https://img.shields.io/github/followers/TheMainSeif?label=Followers&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/seifwafikk/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Wafeek-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:seifwafikk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- Software Engineering student with hands-on internship experience
-- Worked on **DevOps, Backend, Web Development, and Testing Automation**
-- Passionate about building scalable systems and improving CI/CD workflows
+- 🎓 Computer & Information Sciences student at **Egypt University of Informatics (EUI)**
+- 🧠 Strong foundation in **software engineering, system design, and automation**
+- 💼 Internship experience in **DevOps** and **Backend Development**
+- 🔍 Interested in **Cloud, CI/CD, Full-Stack Development, and Testing Automation**
+- 📈 Always learning and building real-world projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- C / C++
-- Python
-- Java
-- Scala
-- JavaScript
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,javascript" />
+</p>
 
-### Web & Full-Stack
-- HTML, CSS, JavaScript
-- React
-- Flask
+### 🌐 Web & Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
+</p>
 
-### Testing & QA
-- Selenium
-- Katalon Studio
-- JMeter
-- JUnit
+### 🧪 Testing & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://img.shields.io/badge/Katalon-Studio-green?style=flat" />
+  <img src="https://img.shields.io/badge/JMeter-Performance-red?style=flat" />
+  <img src="https://img.shields.io/badge/JUnit-Testing-orange?style=flat" />
+</p>
 
-### DevOps & CI/CD
-- Docker, Kubernetes
-- Terraform
-- GitHub Actions
-- Azure DevOps
-- AWS (EC2, S3, IAM, EKS)
+### ⚙️ DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,aws" />
+</p>
 
-### Tools & Platforms
-- Git, GitHub
-- Jira
-- ProjectLibre
-- Linux
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/NoSQL-Database-blue?style=flat" />
+</p>
+
+### 📊 Project Management & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,jira" />
+  <img src="https://img.shields.io/badge/ProjectLibre-Planning-blueviolet?style=flat" />
+</p>
 
 ---
 
-## 📌 Projects
-- **Employment Management System** – Employee data, payroll, and performance management
-- **Recipe Generator Chatbot** – Scala-based functional chatbot
-- **Klondike Solitaire** – C++ implementation using data structures
-- **Library Management System** – OOP-based C++ system
+## 📌 Featured Projects
+- 🏢 **Employment Management System** – Employee data, payroll & performance management
+- 🤖 **Recipe Generator Chatbot** – Scala-based functional chatbot
+- 🃏 **Klondike Solitaire** – C++ project using data structures
+- 📚 **Library Management System** – OOP-based C++ system
+
+➡️ *Check pinned repositories below for more details.*
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMainSeif&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMainSeif&theme=dark" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: seifwafikk@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/seifwafikk/
-- 🧑‍💻 GitHub: https://github.com/TheMainSeif
+- 📧 **Email:** seifwafikk@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/seifwafikk/
+- 🧑‍💻 **GitHub:** https://github.com/TheMainSeif
+
+---
+
+⭐ *If you like my work, feel free to follow or star my repositories!*
