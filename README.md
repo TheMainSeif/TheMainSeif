@@ -42,17 +42,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,aws" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/NoSQL-Database-blue?style=flat" />
-</p>
-
-### 📊 Project Management & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,jira" />
-  <img src="https://img.shields.io/badge/ProjectLibre-Planning-blueviolet?style=flat" />
-</p>
 
 ---
 
