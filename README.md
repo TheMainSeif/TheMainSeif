@@ -2,7 +2,6 @@
 <h3 align="center">Undergraduate Software Engineer | Full-Stack • DevOps • QA Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/TheMainSeif"><img src="https://img.shields.io/github/followers/TheMainSeif?label=Followers&style=flat" /></a>
   <a href="https://www.linkedin.com/in/seifwafikk/"><img src="https://img.shields.io/badge/LinkedIn-Seif%20Wafeek-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:seifwafikk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
@@ -67,21 +66,10 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMainSeif&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMainSeif&theme=dark" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 📧 **Email:** seifwafikk@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/seifwafikk/
-- 🧑‍💻 **GitHub:** https://github.com/TheMainSeif
 
 ---
 
